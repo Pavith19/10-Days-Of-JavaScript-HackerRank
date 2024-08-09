@@ -9,7 +9,7 @@
 ![ViewCount](https://views.whatilearened.today/views/github/Pavith19/10-Days-Of-JavaScript-HackerRank.svg?cache=remove)
 
 
-# HackerRank 30 Days of Code Solutions
+# 10 Days of JavaScript - HackerRank Solutions
 
 <p align="center">  
 	<br>
@@ -22,7 +22,7 @@
 
 ## [Description]()
 
-Welcome to the HackerRank 30 Days of Code Solutions repository! This collection showcases my solutions to the HackerRank 30 Days of Code challenge, implemented in Python, Java, and JavaScript. If you're stuck on any of the challenges, feel free to check this repository for guidance and solutions.
+Welcome to the 10 Days of JavaScript - HackerRank Solutions repository! This repository contains my solutions to the HackerRank 10 Days of JavaScript challenges, implemented in JavaScript. If you need help with any of the challenges or want to see different approaches, this repository is a great resource for guidance and reference.
 
 ## [Personal HackerRank Profile]()
 

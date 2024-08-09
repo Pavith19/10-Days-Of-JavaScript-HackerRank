@@ -1,3 +1,8 @@
+/*
+ * Author: Pavith Bambaravanage
+ * URL: https://github.com/Pavith19
+*/
+
 /**
 *   A line of code that prints "Hello, World!" on a new line is provided in the editor. 
 *   Write a second line of code that prints the contents of 'parameterVariable' on a new line.

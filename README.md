@@ -35,6 +35,31 @@ Welcome to the 10 Days of JavaScript - HackerRank Solutions repository! This rep
 
 ## [Challenges]()
 
+| Day | Challenge                                                                                     |
+|-----|-----------------------------------------------------------------------------------------------|
+| 0   | [Data Types](https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank/blob/main/Day%200/Data%20Types.js) |
+| 0   | [Hello World](https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank/blob/main/Day%200/Hello%20World.js) |
+| 1   | [Arithmetic Operators](https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank/blob/main/Day%201/Arithmetic%20Operators.js) |
+| 1   | [Functions](https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank/blob/main/Day%201/Functions.js) |
+| 1   | [Let and Const](https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank/blob/main/Day%201/Let%20and%20Const.js) |
+| 2   | [Conditional Statements If Else](https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank/blob/main/Day%202/Conditional%20Statements%20If%20Else.js) |
+| 2   | [Conditional Statements Switch](https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank/blob/main/Day%202/Conditional%20Statements%20Switch.js) |
+| 2   | [Loops](https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank/blob/main/Day%202/Loops.js) |
+| 3   | [Arrays](https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank/blob/main/Day%203/Arrays.js) |
+| 3   | [Throw](https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank/blob/main/Day%203/Throw.js) |
+| 3   | [Try Catch Finally](https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank/blob/main/Day%203/Try%20Catch%20Finally.js) |
+| 4   | [Classes](https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank/blob/main/Day%204/Classes.js) |
+| 4   | [Count Objects](https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank/blob/main/Day%204/Count%20Objects.js) |
+| 5   | [Arrow Functions](https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank/blob/main/Day%205/Arrow%20Functions.js) |
+| 5   | [Inheritance](https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank/blob/main/Day%205/Inheritance.js) |
+| 6   | [Bitwise Operators](https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank/blob/main/Day%206/Bitwise%20Operators.js) |
+| 6   | [JavaScript Dates](https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank/blob/main/Day%206/JavaScript%20Dates.js) |
+| 7   | [Regular Expressions I](https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank/blob/main/Day%207/Regular%20Expressions%20I.js) |
+| 7   | [Regular Expressions II](https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank/blob/main/Day%207/Regular%20Expressions%20II.js) |
+| 7   | [Regular Expressions III](https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank/blob/main/Day%207/Regular%20Expresions%20III.js) |
+| 8   | [Buttons Container](https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank/tree/main/Day%208/Buttons%20Container) |
+| 8   | [Create a Button](https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank/tree/main/Day%208/Create%20a%20Button) |
+| 9   | [Binary Calculator](https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank/blob/main/Day%209/binaryCalculator.js) |
 
 
 ## [Disclaimer]()

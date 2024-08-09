@@ -48,11 +48,11 @@ Welcome to the 10 Days of JavaScript - HackerRank Solutions repository! This rep
 | **Day 8** | [Buttons Container](https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank/tree/main/Day%208/Buttons%20Container) <br> [Create a Button](https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank/tree/main/Day%208/Create%20a%20Button) |
 | **Day 9** | [Binary Calculator](https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank/blob/main/Day%209/binaryCalculator.js) |
 
-## [Disclaimer]()
+## [📝 Disclaimer]()
 
 These solutions are my own work and were created for educational purposes on HackerRank. They may not be the most optimal solutions, but they passed HackerRank’s test cases.
 
-## [Contributing]()
+## [🤝 Contributing]()
 
 We welcome contributions to enhance this collection of HackerRank 30 Days of Code solutions:
 
@@ -61,7 +61,7 @@ We welcome contributions to enhance this collection of HackerRank 30 Days of Cod
 - **Multiple Language Implementations**: Add solutions in other programming languages.
 - **Improve Documentation**: Enhance the README, code comments or other documentation.
 
-## [License]()
+## [📄 License]()
  
 This project is open source and available under the [MIT License](LICENSE).
 

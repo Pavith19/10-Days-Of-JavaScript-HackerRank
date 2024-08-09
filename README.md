@@ -28,10 +28,10 @@ Welcome to the 10 Days of JavaScript - HackerRank Solutions repository! This rep
 
 [View Profile](https://www.hackerrank.com/profile/Pavith_DB)
 
-## [HackerRank 30 Days of Code Badge]()
+## [HackerRank 10 Days of JavaScript Badge]()
 
 <a href="https://www.hackerrank.com/profile/Pavith_DB">
-<img alt="30 Days of Code" src="Badge/30_days_of_code_5_star.png" width = 100 ></a>
+<img alt=" 10 Days of JavaScript " src="Badge/30_days_of_code_5_star.png" width = 100 ></a>
 
 ## [🚀 Challenges]()
 

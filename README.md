@@ -6,7 +6,7 @@
 [![GitHub Written in](https://img.shields.io/badge/Written%20in-JavaScript%20%7C%20HTML%20%7C%20CSS-blue)](https://shields.io/)&nbsp;&nbsp;&nbsp;
 [![GitHub last commit](https://img.shields.io/github/last-commit/Pavith19/10-Days-Of-JavaScript-HackerRank)](https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank/commits/main)&nbsp;&nbsp;&nbsp;
 ![ViewCount](https://views.whatilearened.today/views/github/Pavith19/10-Days-Of-JavaScript-HackerRank.svg?cache=remove)&nbsp;&nbsp;&nbsp;
-[!["Buy Me A Coffee"](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/koconderi)
+[!["Buy Me A Coffee"](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://buymeacoffee.com/pavith_db)
 
 
 # 10 Days of JavaScript - HackerRank Solutions

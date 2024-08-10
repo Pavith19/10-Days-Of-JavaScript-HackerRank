@@ -54,7 +54,7 @@ These solutions are my own work and were created for educational purposes on Hac
 
 ## [🤝 Contributing]()
 
-We welcome contributions to enhance this collection of HackerRank 30 Days of Code solutions:
+I welcome contributions to enhance this collection of HackerRank 30 Days of Code solutions:
 
 - **Improve Existing Solutions**: Optimize or clarify current solutions.
 - **Add Explanations**: Provide detailed explanations of code and problem-solving approaches.
